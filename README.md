@@ -1,3 +1,9 @@
+# About
+
+This is the repo for my blog @ ryansteel.co.uk.
+
+Using the Hacker-Blog theme - see below for details.
+
 # The Hacker-Blog theme
 
 *Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.*
