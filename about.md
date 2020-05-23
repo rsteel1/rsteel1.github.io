@@ -5,9 +5,9 @@ title: About
 
 # About
 
-My name is Ryan Steel. I'm a software developer.
+My name is Ryan Steel. I'm a software developer from Scotland.
 
-I'm currently working full time while completing my BSc in Software Development in Scotland.
+I'm currently working full time, and in the third year of a four year BSc in Software Development.
 
 Mainly working with C++ and Python at the moment.
 
